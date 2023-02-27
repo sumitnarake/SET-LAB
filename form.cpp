@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//find the max element in the array
 int main() {
 	// your code goes here
 	int t;
